@@ -15,7 +15,7 @@ Interactive Power BI dashboard analyzing tweet sentiments (Positive, Negative, N
 ## Files
 - `Twitter_Sentiment_Dashboard.pdf` - Dashboard export
 - `Twitter_Sentiment_Analysis.pbix` - Power BI source file
-- `tweets_dataset.csv` - Raw data
+- `tweets.csv` - Raw data
 
 ## Tools Used
 - Power BI Desktop
